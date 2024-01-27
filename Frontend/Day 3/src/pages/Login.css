@@ -1,0 +1,22 @@
+.bo {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url("https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  color: rgb(13, 13, 242);
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+  border-style: dashed;
+  border: 10px solid transparent;
+  padding: 15px;
+  color: rgb(103, 80, 255);
+  text-shadow: 1px 0 black, 0 -1px black;
+  animation: example 5s linear 2s infinite alternate;
+}
+
+
